@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='300' height='220'>
+  <rect width='300' height='220' fill='#F3E5AB'/>
+  <circle cx='95' cy='110' r='38' fill='#D4A373'/>
+  <circle cx='155' cy='110' r='38' fill='#C9925D'/>
+  <circle cx='215' cy='110' r='38' fill='#B87D45'/>
+  <text x='150' y='200' text-anchor='middle' font-size='20' fill='#1F2937' font-family='Arial'>Prepared Bati</text>
+</svg>
